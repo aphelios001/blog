@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>Data Structure</title>
+    <link href="/2024/11/16/Data-Structure/"/>
+    <url>/2024/11/16/Data-Structure/</url>
+    
+    <content type="html"><![CDATA[<h1 id="数据结构"><a href="#数据结构" class="headerlink" title="数据结构"></a>数据结构</h1><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>数据结构的<strong>三要素</strong>：逻辑结构，物理结构（存储结构），数据运算。</p><p>逻辑结构：</p><ul><li>集合结构</li><li>线性结构（一对一）</li><li>树形结构（一对多）</li><li>图状结构（多对多）</li></ul><p>物理结构：</p><ul><li>顺序存储</li><li>链式存储</li><li>索引存储</li><li>散列存储</li></ul><p>数据结构是要处理的信息。</p><p>算法是处理信息的步骤。</p><p>算法的五个特性：</p><ul><li>有穷性（有穷时间内能执行完算法）</li><li>确定性（相同的输入只会产生相同的输出）</li><li>可行性（可以用已有的基本操作实现算法）</li><li>输入</li><li>输出</li></ul><p>好算法的特质：</p><ul><li>正确性（能正确解决问题）</li><li>可读性（对算法的描述要让其他人看得明白）</li><li>健壮性（算法能处理一些异常的状态）</li><li>高效率与低存储量需求（时间复杂度和空间复杂度低）</li></ul><p>重点：</p><p>请你学习和掌握时间复杂度和空间复杂度的计算。</p><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>My New Post</title>
     <link href="/2024/10/14/My-New-Post/"/>
     <url>/2024/10/14/My-New-Post/</url>
